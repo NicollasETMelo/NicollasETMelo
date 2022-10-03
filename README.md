@@ -17,7 +17,7 @@ Formado em Biotecnologia, descobri a paixão pela programação. Ainda estou em 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasETMelo&show_icons=true&theme=radical)
 
 ## Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicollasETMelo&repo=nicollasetmelo.github.io)](nicollasetmelo.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicollasETMelo&repo=nicollasetmelo.github.io)](https://nicollasetmelo.github.io)
 
 ## Contato
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](https://www.linkedin.com/in/melonicollas/)
