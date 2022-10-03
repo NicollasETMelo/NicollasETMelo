@@ -21,4 +21,4 @@ Formado em Biotecnologia, descobri a paixão pela programação. Ainda estou em 
 
 ## Contato
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](https://www.linkedin.com/in/melonicollas/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin" height="30">](nicollas.etm@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin" height="30">](https://nicollas.etm@gmail.com/)
